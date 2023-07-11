@@ -1,4 +1,4 @@
-<?php
+PostContro<?php
 
 namespace App\Http\Controllers;
 
